@@ -1,3 +1,6 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=77web&count_private=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=77web&layout=compact)
+
 ### Hi there 👋
 
 - Mother of 2 kids
